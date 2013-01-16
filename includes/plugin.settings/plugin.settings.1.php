@@ -219,7 +219,7 @@
 									a) <a class="button-primary" href="https://www.google.com/search?q=<?php echo $provider_name ?> API create application" target="_blank">Google it</a>, 
 									then check it on b) 
 									<a class="button-primary" href="http://www.youtube.com/results?search_query=<?php echo $provider_name ?> API create application " target="_blank">Youtube</a>
-									and if nothoing works c) 
+									and if nothing works c) 
 									<a class="button-primary" href="options-general.php?page=wordpress-social-login&wslp=5 ">ask for support</a>.
 							</p>
 					</div>  
