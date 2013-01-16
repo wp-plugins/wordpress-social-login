@@ -187,7 +187,7 @@
 						
 						<?php if ( $provider_id == "Facebook" ) : ?>
 							<hr /> 
-							<table style="text-align: center;margin-left: 22px;margin-bottom:12px;">
+							<table style="text-align: center;margin-bottom:12px;">
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/facebook/1.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/facebook/1.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/facebook/2.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/facebook/2.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/facebook/3.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/facebook/3.png"></a></td>
@@ -196,7 +196,7 @@
 						<?php endif; ?> 
 						<?php if ( $provider_id == "Google" ) : ?>
 							<hr /> 
-							<table style="text-align: center;margin-left: 22px;margin-bottom:12px;">
+							<table style="text-align: center;margin-bottom:12px;">
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/google/1.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/google/1.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/google/2.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/google/2.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/google/3.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/google/3.png"></a></td>
@@ -205,7 +205,7 @@
 						<?php endif; ?> 
 						<?php if ( $provider_id == "Twitter" ) : ?>
 							<hr /> 
-							<table style="text-align: center;margin-left: 22px;margin-bottom:12px;">
+							<table style="text-align: center;margin-bottom:12px;">
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/twitter/1.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/twitter/1.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/twitter/2.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/twitter/2.png"></a></td>
 								<td><a class="span4 thumbnail" href="http://hybridauth.sf.net/userguide/img/setup/twitter/3.png" target="_blank"><img src="http://hybridauth.sf.net/userguide/img/setup/twitter/3.png"></a></td>
